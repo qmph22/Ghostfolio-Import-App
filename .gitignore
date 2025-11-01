@@ -1,0 +1,7 @@
+*.txt
+*.env
+!requirements.txt
+importapp/rootcertchain.pem
+*.pem
+allocations.yml
+!example.env

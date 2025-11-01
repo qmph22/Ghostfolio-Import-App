@@ -1,0 +1,25 @@
+accounts:
+  - name: "401k"
+    account_id: "account-id-here"
+    holdings:
+      BRGNX: .20
+      BlackRock MSCI ACWI ex-US IMI Index Fd E: .70
+      Long Term Credit Bond Index Fund: .05
+      FTSE NAREIT All Equity REITs Index Fd F: .05
+    contributions:
+      - date: "2025-10-24"
+        amount: 500
+  - name: "Acorns"
+    account_id: "account-id-here"
+    holdings:
+      VOO: 0.47 # Large Company Stocks
+      IJH: .06 # Medium Company Stocks
+      IJR: 0.03 # Small Company Stocks
+      IXUS: 0.24 # International Stocks
+      ISTB: .06 # Short-Term Bonds
+      AGG: .14 # Bonds
+    contributions:
+      - date: "2025-10-26"
+        amount: 5.0
+      - date: "2025-10-27"
+        amount: 5.0
